@@ -4,9 +4,8 @@
 
 **Building tools that run on your machine — not someone else's cloud.**
 
-[![Twitter](https://img.shields.io/badge/𝕏-@mariohernandez-000?style=flat&logo=x&logoColor=white)](https://x.com/mariohernandez)
-[![Telegram](https://img.shields.io/badge/Telegram-@hernandez-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/hernandez)
-[![Website](https://img.shields.io/badge/Web-gemma4--local-blue?style=flat&logo=safari&logoColor=white)](https://mario-hernandez.github.io/gemma4-local/)
+[![Twitter](https://img.shields.io/badge/@mariohernandez-000?style=flat&logo=x&logoColor=white)](https://x.com/mariohernandez)
+[![Telegram](https://img.shields.io/badge/@hernandez-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/hernandez)
 [![GitHub](https://img.shields.io/github/followers/mario-hernandez?label=Follow&style=social)](https://github.com/mario-hernandez)
 
 </div>
