@@ -54,17 +54,10 @@ I'm focused on **local AI**: making powerful language models run on consumer har
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mario-hernandez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6eaaff&icon_color=6eaaff&text_color=c9d1d9&count_private=true" alt="GitHub Stats">
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-hernandez&theme=dark&hide_border=true&background=0d1117&ring=6eaaff&fire=6eaaff&currStreakLabel=6eaaff" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mario-hernandez&theme=dark&hide_border=true&background=0d1117&ring=6eaaff&fire=6eaaff&currStreakLabel=6eaaff" alt="GitHub Streak" height="150">
 
-</div>
+<sub>📍 Spain · Apple Developer · Building in public</sub>
 
----
-
-<div align="center">
-  <sub>📍 Spain · Apple Developer · Building in public</sub>
 </div>
